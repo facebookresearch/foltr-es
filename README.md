@@ -6,7 +6,7 @@ WSDM 2019 [(link)](https://dl.acm.org/citation.cfm?id=3290968)
 
 ## Installation
 
-In order to reproduce the experiments, we need to (1) setup an appropriate python environment, and (b) download the
+In order to reproduce the experiments, we need to (1) setup an appropriate python environment, and (2) download the
 datasets used in the paper. The steps below assume that we create a new conda environment solely for the purpose
 of running this code.
 
