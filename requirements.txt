@@ -26,7 +26,7 @@ mkl-fft==1.0.6
 more-itertools==4.3.0
 nbconvert==5.4.0
 nbformat==4.4.0
-notebook==6.1.5
+notebook==6.4.1
 numpy==1.15.4
 olefile==0.46
 pandas==0.23.4
